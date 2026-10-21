@@ -28,6 +28,14 @@
 
 ---
 
+### 🌐 生态系统与主页 (Ecosystem & Profiles)
+
+- **GitHub**: [@kevink661](https://github.com/kevink661) — 开源项目、个人研究与系统底层工程。
+- **GitLab**: [@kevink661](https://gitlab.com/kevink661) — 企业级流水线、CI/CD 探索与私有镜像仓库。
+- **Hugging Face**: [@kevink661](https://huggingface.co/kevink661) — 神经网络推理运行时、模型评估与数据集。
+
+---
+
 ### 🛠️ 核心技术栈
 
 | 类别 | 技术与工具 |

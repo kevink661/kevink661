@@ -31,6 +31,14 @@ Saya seorang senior software engineer yang berbasis di Seoul, berdedikasi memban
 
 ---
 
+### 🌐 Ekosistem & Profil (Ecosystem & Profiles)
+
+- **GitHub**: [@kevink661](https://github.com/kevink661) — Kode sumber terbuka, riset pribadi, dan proyek sistem.
+- **GitLab**: [@kevink661](https://gitlab.com/kevink661) — Pipeline enterprise, eksplorasi CI/CD, dan repositori mirror privat.
+- **Hugging Face**: [@kevink661](https://huggingface.co/kevink661) — Runtime inferensi neural, evaluasi model, dan dataset.
+
+---
+
 ### 🛠️ Tumpukan Teknologi Inti
 
 | Kategori | Teknologi & Alat |

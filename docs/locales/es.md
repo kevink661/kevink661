@@ -28,6 +28,14 @@ Soy Kevin Park, ingeniero de software senior radicado en Seúl. Me apasiona crea
 
 ---
 
+### 🌐 Ecosistema y Perfiles (Ecosystem & Profiles)
+
+- **GitHub**: [@kevink661](https://github.com/kevink661) — Código abierto, investigación personal y proyectos de sistemas.
+- **GitLab**: [@kevink661](https://gitlab.com/kevink661) — Pipelines empresariales, exploraciones de CI/CD y réplicas privadas.
+- **Hugging Face**: [@kevink661](https://huggingface.co/kevink661) — Runtimes de inferencia neuronal, evaluación de modelos y conjuntos de datos.
+
+---
+
 ### 🛠️ Pila Tecnológica Principal
 
 | Categoría | Tecnologías y Herramientas |

@@ -31,6 +31,14 @@ I'm a senior software engineer based in Seoul, passionate about crafting high-pe
 
 ---
 
+### 🌐 Ecosystem & Profiles
+
+- **GitHub**: [@kevink661](https://github.com/kevink661) — Open-source code, personal research, and systems projects.
+- **GitLab**: [@kevink661](https://gitlab.com/kevink661) — Enterprise pipelines, CI/CD explorations, and private mirrors.
+- **Hugging Face**: [@kevink661](https://huggingface.co/kevink661) — Neural inference runtimes, model evaluations, and datasets.
+
+---
+
 ### 🛠️ Core Technology Stack
 
 | Category | Technologies & Tooling |

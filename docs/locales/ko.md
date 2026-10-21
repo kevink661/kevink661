@@ -31,6 +31,14 @@
 
 ---
 
+### 🌐 생태계 & 프로필 (Ecosystem & Profiles)
+
+- **GitHub**: [@kevink661](https://github.com/kevink661) — 오픈소스 코드, 개인 연구 및 시스템 프로젝트.
+- **GitLab**: [@kevink661](https://gitlab.com/kevink661) — 엔터프라이즈 파이프라인, CI/CD 탐구 및 비공개 미러 저장소.
+- **Hugging Face**: [@kevink661](https://huggingface.co/kevink661) — 신경망 추론 런타임, 모델 벤치마크 및 데이터셋.
+
+---
+
 ### 🛠️ 핵심 기술 스택
 
 | 분류 | 세부 기술 및 도구 |

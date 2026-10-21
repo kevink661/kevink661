@@ -28,6 +28,14 @@ Je suis Kevin Park, ingénieur logiciel senior basé à Séoul. Passionné par l
 
 ---
 
+### 🌐 Écosystème & Profils (Ecosystem & Profiles)
+
+- **GitHub**: [@kevink661](https://github.com/kevink661) — Code open source, recherche personnelle et projets systèmes.
+- **GitLab**: [@kevink661](https://gitlab.com/kevink661) — Pipelines d'entreprise, explorations CI/CD et miroirs privés.
+- **Hugging Face**: [@kevink661](https://huggingface.co/kevink661) — Moteurs d'inférence neuronale, évaluations de modèles et jeux de données.
+
+---
+
 ### 🛠️ Stack Technologique Principale
 
 | Catégorie | Technologies et Outils |
