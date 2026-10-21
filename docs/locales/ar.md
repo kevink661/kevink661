@@ -13,7 +13,9 @@
 
 <br>
 
-[🇺🇸 English](https://github.com/kevink661/kevink661/blob/main/README.md) · [🇰🇷 한국어](https://github.com/kevink661/kevink661/blob/main/docs/locales/ko.md) · [🇨🇳 中文](https://github.com/kevink661/kevink661/blob/main/docs/locales/zh-CN.md) · [🇪🇸 Español](https://github.com/kevink661/kevink661/blob/main/docs/locales/es.md) · [🇮🇳 हिन्दी](https://github.com/kevink661/kevink661/blob/main/docs/locales/hi.md) · 🇸🇦 العربية · [🇧🇷 Português](https://github.com/kevink661/kevink661/blob/main/docs/locales/pt-BR.md) · [🇷🇺 Русский](https://github.com/kevink661/kevink661/blob/main/docs/locales/ru.md) · [🇫🇷 Français](https://github.com/kevink661/kevink661/blob/main/docs/locales/fr.md) · [🇮🇩 Bahasa Indonesia](https://github.com/kevink661/kevink661/blob/main/docs/locales/id.md)
+| [🇰🇷 한국어](https://github.com/kevink661/kevink661/blob/main/docs/locales/ko.md) | [🇺🇸 English](https://github.com/kevink661/kevink661/blob/main/README.md) | [🇯🇵 日本語](https://github.com/kevink661/kevink661/blob/main/docs/locales/ja.md) | [🇨🇳 简体中文](https://github.com/kevink661/kevink661/blob/main/docs/locales/zh-CN.md) | [🇪🇸 Español](https://github.com/kevink661/kevink661/blob/main/docs/locales/es.md) |
+| :---: | :---: | :---: | :---: | :---: |
+| [🇫🇷 Français](https://github.com/kevink661/kevink661/blob/main/docs/locales/fr.md) | [🇩🇪 Deutsch](https://github.com/kevink661/kevink661/blob/main/docs/locales/de.md) | [🇷🇺 Русский](https://github.com/kevink661/kevink661/blob/main/docs/locales/ru.md) | [🇧🇷 Português](https://github.com/kevink661/kevink661/blob/main/docs/locales/pt-BR.md) | [🇸🇦 العربية](https://github.com/kevink661/kevink661/blob/main/docs/locales/ar.md) |
 
 </div>
 
